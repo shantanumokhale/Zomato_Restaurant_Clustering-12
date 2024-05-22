@@ -15,6 +15,9 @@ Another crucial aspect involves clustering Zomato's restaurant database to group
 Insights from sentiment analysis and clustering will help solve various business challenges. For customers, it will assist in locating the best restaurants based on peer reviews, while for Zomato, it will pinpoint areas for improvement and growth opportunities.
 
 **Insights from Sentiment Analysis**
+![image](https://github.com/shantanumokhale/Zomato_Restaurant_Clustering-12/assets/120486081/5e16df91-27e8-45e3-8f30-40d8d66db31a)
+
+![image](https://github.com/shantanumokhale/Zomato_Restaurant_Clustering-12/assets/120486081/c2fe92b9-0f87-48c9-8972-488998091649)
 
 - **Chicken as a High-Risk Item**: Chicken dishes have high positive sentiment but also disproportionately high negative sentiment, suggesting their significant impact on customer sentiment.
 
@@ -31,6 +34,9 @@ Insights from sentiment analysis and clustering will help solve various business
 - **Staff Interaction**: Good staff interactions enhance customer experience, but poor interactions have less impact on negative sentiment compared to food quality or ambiance.
 
 **Insights from Clustering Analysis**
+![image](https://github.com/shantanumokhale/Zomato_Restaurant_Clustering-12/assets/120486081/c27fbe99-680f-49df-a166-e847d3d59ed1)
+
+![image](https://github.com/shantanumokhale/Zomato_Restaurant_Clustering-12/assets/120486081/54e9ba39-5a1d-472b-853a-40a14d73fab1)
 
 - **Cluster 1**: Offers a balanced mix of quality, price, and diversity with various cuisines.
 
