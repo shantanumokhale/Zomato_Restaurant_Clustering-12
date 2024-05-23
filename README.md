@@ -1,4 +1,5 @@
 # **Zomato Restaurant Clustering (Unsupervised ML)**
+
 ![image](https://github.com/shantanumokhale/Zomato_Restaurant_Clustering-12/assets/120486081/cc2b6fd3-6237-4eee-8ecd-d6fb9ec77c53)
 
 In the ever-evolving Indian restaurant landscape, Zomato, a leading restaurant aggregator and food delivery platform, possesses a vast dataset reflecting diverse culinary experiences across cities. The challenge is to extract meaningful insights to benefit customers and the company alike.
@@ -14,6 +15,7 @@ Another crucial aspect involves clustering Zomato's restaurant database to group
 **3. Business Case Solutions**
 
 Insights from sentiment analysis and clustering will help solve various business challenges. For customers, it will assist in locating the best restaurants based on peer reviews, while for Zomato, it will pinpoint areas for improvement and growth opportunities.
+
 ![image](https://github.com/shantanumokhale/Zomato_Restaurant_Clustering-12/assets/120486081/fb4e84e9-8ce4-4529-86f8-0634f98aabdf)
 
 **Insights from Sentiment Analysis**
@@ -34,6 +36,7 @@ Insights from sentiment analysis and clustering will help solve various business
 - **Operational Aspects**: While operational efficiency is important, food quality and service hold more significant sway over customer sentiment.
 
 - **Staff Interaction**: Good staff interactions enhance customer experience, but poor interactions have less impact on negative sentiment compared to food quality or ambiance.
+  
 ![image](https://github.com/shantanumokhale/Zomato_Restaurant_Clustering-12/assets/120486081/7a11c9f4-dcfc-43c5-876d-7e45abbc4a92)
 
 **Insights from Clustering Analysis**
@@ -52,6 +55,7 @@ Insights from sentiment analysis and clustering will help solve various business
 - **Cluster 6**: Consists mostly of budget fast food restaurants.
 
 - **Clusters 0 and 3**: Reflect regional cuisine preferences.
+  
 ![image](https://github.com/shantanumokhale/Zomato_Restaurant_Clustering-12/assets/120486081/fbdb86bf-20b0-429a-a1ab-8ff7547d688b)
 
 **Summary of Business Case Solutions Based on Insights**
@@ -71,7 +75,9 @@ Insights from sentiment analysis and clustering will help solve various business
 - **Strategic Approach to Cluster Insights**: Provide insights to restaurants based on cluster categorization.
 
 - **Encouraging Diversity in Cuisine Offerings**: Encourage restaurants to diversify based on cluster insights.
+  
 ![image](https://github.com/shantanumokhale/Zomato_Restaurant_Clustering-12/assets/120486081/e869cbf6-25e8-414c-a92f-032eb82229d1)
 
 These solutions aim to guide Zomato and partner restaurants in optimizing customer satisfaction and fostering sustainable growth.
+
 ![image](https://github.com/shantanumokhale/Zomato_Restaurant_Clustering-12/assets/120486081/90352840-5fe6-466c-af8d-6b53931ea780)
